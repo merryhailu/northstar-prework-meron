@@ -9,6 +9,10 @@ A small Python project that analyzes and summarizes fictional regional sales dat
 - Checks whether each region’s sales are above or below average using Boolean logic
 - Writes the complete sales analysis into a text file
 
+## Summarize
+
+After the analysis, North and East regions show “Above Average,” while South, West, and Central regions show “Below Average.”
+
 ## How to run
 
 You need Python 3.10 or higher. From the terminal, in this folder:
@@ -23,3 +27,7 @@ You need Python 3.10 or higher. From the terminal, in this folder:
 - `region_summary_report.txt` - text file containing the analysis output
 - `hello_northstar_analysis.xlsx` - Excel workbook with sales data and analysis results
 - `README.md` - this file, Project documentation and overview
+
+## AI Use Note
+
+I didn't use AI for this project. I wrote everything from scratch using the lesson materials.
